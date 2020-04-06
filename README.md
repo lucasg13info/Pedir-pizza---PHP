@@ -1,3 +1,3 @@
 # Pedir-pizza-PHP
-## Usando formulários e aplicando os métodos GET e POST no com PHP. 
+## Usando formulários e aplicando os métodos GET e POST com PHP. 
 ![](PedirPizza.JPG)
