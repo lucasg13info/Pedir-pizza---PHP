@@ -1,2 +1,3 @@
-# Pedir-pizza---PHP
-Criação de um sistema básico para pedir pizza
+# Pedir-pizza-PHP
+## Usando formulários e aplicando os métodos GET e POST no com PHP. 
+![](PedirPizza.JPG)
